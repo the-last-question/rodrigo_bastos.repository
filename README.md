@@ -7,7 +7,5 @@
   
   
 ## Instructure canvas link:
-</p>
-
-<p aling="center">
+<p align="center">
   (https://senaicimatec.instructure.com/login/canvas)
