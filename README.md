@@ -5,4 +5,7 @@
   texto centralizado
   </p>
 ## Instructure canvas link:
+</p>
+
+<p aling="center">
   (https://senaicimatec.instructure.com/login/canvas)
